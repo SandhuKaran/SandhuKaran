@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 Third year Computer Science student at McMaster University. 
 I have a keen interest in web development and enjoy working on various projects that make life easier and more efficient.
 
+
+## 🖥️ Portfolio Website
+### [Portfolio](https://portfolio-rose-gamma-79.vercel.app/)
+
+
 ## 🚀 Projects
 
 ### [TravelEase](https://travel-ease-client.vercel.app/)
