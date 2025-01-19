@@ -27,6 +27,9 @@ I have a keen interest in web development and enjoy working on various projects 
 
 ## 🚀 Projects
 
+### [BookHive](https://github.com/SandhuKaran/BookHive)
+Built with Next.js, TypeScript, and Postgres, the University Library Management System is a production-grade platform featuring a public-facing app and an admin interface. It offers advanced functionalities like seamless book borrowing with reminders and receipts, robust user management, automated workflows, and a modern, optimized tech stack for real-world scalability.
+
 ### [TravelEase](https://travel-ease-client.vercel.app/)
 I developed an app that takes multiple addresses and calculates the fastest path to visit all of them, effectively solving the Traveling Salesman Problem using brute force. This app was developed to improve scheduling and efficiency in the lawn maintenance service I managed last year, reducing travel times and saving fuel costs.
 
